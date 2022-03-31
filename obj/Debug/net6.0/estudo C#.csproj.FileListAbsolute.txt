@@ -1,0 +1,15 @@
+C:\Users\jgers\Desktop\estudo C#\bin\Debug\net6.0\estudo C#.exe
+C:\Users\jgers\Desktop\estudo C#\bin\Debug\net6.0\estudo C#.deps.json
+C:\Users\jgers\Desktop\estudo C#\bin\Debug\net6.0\estudo C#.runtimeconfig.json
+C:\Users\jgers\Desktop\estudo C#\bin\Debug\net6.0\estudo C#.dll
+C:\Users\jgers\Desktop\estudo C#\bin\Debug\net6.0\estudo C#.pdb
+C:\Users\jgers\Desktop\estudo C#\obj\Debug\net6.0\estudo C#.csproj.AssemblyReference.cache
+C:\Users\jgers\Desktop\estudo C#\obj\Debug\net6.0\estudo C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgers\Desktop\estudo C#\obj\Debug\net6.0\estudo C#.AssemblyInfoInputs.cache
+C:\Users\jgers\Desktop\estudo C#\obj\Debug\net6.0\estudo C#.AssemblyInfo.cs
+C:\Users\jgers\Desktop\estudo C#\obj\Debug\net6.0\estudo C#.csproj.CoreCompileInputs.cache
+C:\Users\jgers\Desktop\estudo C#\obj\Debug\net6.0\estudo C#.dll
+C:\Users\jgers\Desktop\estudo C#\obj\Debug\net6.0\refint\estudo C#.dll
+C:\Users\jgers\Desktop\estudo C#\obj\Debug\net6.0\estudo C#.pdb
+C:\Users\jgers\Desktop\estudo C#\obj\Debug\net6.0\estudo C#.genruntimeconfig.cache
+C:\Users\jgers\Desktop\estudo C#\obj\Debug\net6.0\ref\estudo C#.dll
